@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SivaSankarChandu
-- 👀 I’m interested in Cloud Computing
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently learning AWS Cloud
 - 📫 How to reach me through the sivasankarchandu@gmail.com
 
