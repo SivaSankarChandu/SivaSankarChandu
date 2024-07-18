@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Siva Sankar Chandu
 
-- 👀 I’m interested in DevOps and SRE roles
+- 👀 DevOps Engineer with 3.2 years of experience in CI/CD pipelines, deployments, and system optimization. Proficient in JIRA, Jenkins, Bitbucket, and M365. Seeking DevOps/SRE roles. Let's connect!
 - 💼 I’m a System Engineer - DevOps at CloudFuze, Inc (Outsourced via Neutara Technologies Pvt, Ltd)
 - 📫 How to reach me: [sivasankarchandu@gmail.com](mailto:sivasankarchandu@gmail.com)
 
