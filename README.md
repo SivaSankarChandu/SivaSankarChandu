@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Siva Sankar Chandu
 
-- 👀 Passionate DevOps engineer looking for opportunities.
-- 💼 I’m a System Engineer - DevOps at CloudFuze, Inc (Outsourced via Neutara Technologies Pvt, Ltd)
+- 👀 I'm actively seeking **DevOps**, **AWS DevOps**, and **SRE** roles.
+- 💼 I’m a **System Engineer - DevOps at CloudFuze, Inc** (Outsourced via Neutara Technologies Pvt, Ltd)
 - 📫 How to reach me: [sivasankarchandu@gmail.com](mailto:sivasankarchandu@gmail.com)
 
 ## 🛠️ Skills
