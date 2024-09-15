@@ -19,7 +19,7 @@
 ## 💼 Experience
 
 ### System Engineer - DevOps at CloudFuze, Inc (Outsourced via Neutara Technologies Pvt, Ltd)
-*September 2021 – Present*
+*September 2021 – August 2024*
 - Developed and deployed CI/CD pipelines using Jenkins, enhancing deployment efficiency and ensuring high availability across all staging environments in a product-based environment.
 - Configured and managed Bitbucket repositories, improving code management efficiency and reliability in product development.
 - Administered Jenkins user accounts, enhancing secure access, reducing unauthorized access incidents, and ensuring compliance with security best practices.
