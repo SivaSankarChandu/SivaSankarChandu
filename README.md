@@ -5,7 +5,7 @@
 - 📫 How to reach me: [sivasankarchandu@gmail.com](mailto:sivasankarchandu@gmail.com)
 
 ## 🛠️ Skills
-- **CI/CD**: Jenkins, Git, Bitbucket, SonarQube, Maven
+- **CI/CD**: Jenkins, Git, Bitbucket, SonarQube, Maven, Nexus, S3
 - **Cloud**: AWS, Azure, GCP
 - **Infrastructure as Code**: Terraform
 - **Monitoring**: Zabbix, Prometheus, Grafana
