@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Siva Sankar Chandu
 
 - 👀 I'm actively seeking **ServiceNow Developer (ITSM)** and **ServiceNow Admin** roles.
-- 💼 I’m a **System Engineer - DevOps at CloudFuze, Inc** (Outsourced via Neutara Technologies Pvt, Ltd)
+- 💼 I’m a **System Engineer at CloudFuze, Inc** (Outsourced via Neutara Technologies Pvt, Ltd)
 - 📫 How to reach me: [sivasankarchandu@gmail.com](mailto:sivasankarchandu@gmail.com)
 
 ## 🛠️ Skills
@@ -68,5 +68,10 @@
 ## 🌐 Languages
 - English
 - Telugu
+
+---
+
+## 📱 Connect with me:
+[![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin.png)](https://www.linkedin.com/in/sivasankarchandu/)
 
 ---
