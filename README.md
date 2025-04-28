@@ -68,10 +68,4 @@
 ## 🌐 Languages
 - English
 - Telugu
-
----
-
-## 📱 Connect with me:
-[![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin.png)](https://www.linkedin.com/in/sivasankarchandu/)
-
 ---
