@@ -1,18 +1,17 @@
 # 👋 Hi, I'm Siva Sankar Chandu
 
-- 👀 I'm actively seeking **DevOps**, **AWS DevOps**, and **SRE** roles.
+- 👀 I'm actively seeking **ServiceNow Developer (ITSM)** and **ServiceNow Admin** roles.
 - 💼 I’m a **System Engineer - DevOps at CloudFuze, Inc** (Outsourced via Neutara Technologies Pvt, Ltd)
 - 📫 How to reach me: [sivasankarchandu@gmail.com](mailto:sivasankarchandu@gmail.com)
 
 ## 🛠️ Skills
+- **ServiceNow**: ITSM (Incident, Problem, Change Management), Service Catalog, Workflow, Reporting, SLA, CMDB, Integration with third-party applications
 - **CI/CD**: Jenkins, Git, Bitbucket, SonarQube, Maven, Nexus, S3
-- **Cloud**: AWS, Azure, GCP
-- **Infrastructure as Code**: Terraform
-- **Monitoring**: Zabbix, Prometheus, Grafana
-- **Containers**: Docker, Kubernetes
-- **Scripting**: Bash/Shell Scripting
+- **Cloud**: AWS
+- **Monitoring**: Zabbix
+- **Scripting**: JavaScript (ServiceNow scripting)
 - **Collaboration**: Jira, Zoho, Agile
-- **Database**: MongoDB
+- **Database**: MongoDB, ServiceNow Database Management
 - **Administration**: Microsoft 365 Admin, GoDaddy DNS
 - **VPN**: OpenVPN, SoftEther VPN
 
@@ -46,9 +45,9 @@
 - **Diploma in Computer Engineering**: AVN Polytechnic College (Aug 2011 – May 2014) - 76.9%
 
 ## 🏆 Certifications
+- Micro-Certification - Welcome to ServiceNow (ServiceNow)
 - Certified Jenkins Engineer (Whizlabs)
 - Oracle SQL and AWS Cloud Computing (Sri Sathya Sai Seva Organisations)
-- Python for Machine Learning (GreatLearning)
 - Bash Scripting Fundamentals (Whizlabs)
 - Git for Beginners (BitDegree)
 
@@ -70,7 +69,4 @@
 - English
 - Telugu
 
-<!---
-SivaSankarChandu/SivaSankarChandu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
